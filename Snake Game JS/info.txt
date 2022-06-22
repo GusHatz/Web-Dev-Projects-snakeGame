@@ -1,0 +1,2 @@
+A simple made, snake game, useing JavaScript, with apple/egg, body
+and wall collision
